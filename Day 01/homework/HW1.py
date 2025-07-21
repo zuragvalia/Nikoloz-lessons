@@ -9,5 +9,5 @@
 
 sum = 0
 for i in range (0,11):
-    sum += sum+i
+   sum += i
 print(sum)

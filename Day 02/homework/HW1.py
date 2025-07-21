@@ -2,8 +2,12 @@
 #  ის დახმარებით დაბეჭდეთ 5 და შემოყვანილ რიცხვამდე.
 
 
-num1 = 5
-num = int(input("enter number"))
-while num1 <= num:
-    print(num1)
-    num1+=1
+num1 = 5    #sawyisi mnishvneloba
+num = int(input("enter number")) #momxmareblis mieer shemoyvanili ricxvi 
+while num1 <= num:   #chamonatvalis kodi
+    print(num1) #chamonatvalis daprintva
+    num1+=1 #kodi usasrulod rom ar gagrdzeldes
+
+
+
+    
